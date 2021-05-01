@@ -5,4 +5,4 @@ Marvel app swiftui
 Marvel app connexion made in swiftUI
 
 
-![simulator_screenshot_61E47329-3693-45C9-AE35-D7A462336959](https://user-images.githubusercontent.com/7050604/116786773-c9ad5000-aaa0-11eb-899d-b88d1e064da1.png)
+![Capture d’écran 2021-05-01 à 17 49 12](https://user-images.githubusercontent.com/7050604/116787651-94efc780-aaa5-11eb-8cbd-de22d380dd7a.png)
